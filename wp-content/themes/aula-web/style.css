@@ -1,0 +1,10 @@
+/*
+Theme Name: Club Titanes
+Theme URI: http://127.0.0.1:8080/
+Author: Fran
+Description: Tema sencillo para una web de fútbol americano.
+Version: 1.0
+*/
+:root{--ink:#171717;--blue:#a51c30;--cyan:#e4b363;--paper:#f7f3ed;--muted:#6d6257}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,Segoe UI,Arial,sans-serif;line-height:1.65}
+a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}.site-header{background:linear-gradient(120deg,#171717,#a51c30);color:#fff;padding:22px 7vw;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{font-size:1.25rem;font-weight:800;letter-spacing:.08em}.site-nav a{color:#fff;margin-left:22px;font-weight:600}.hero{padding:76px 7vw 62px;background:radial-gradient(circle at 90% 20%,rgba(228,179,99,.55),transparent 28%),linear-gradient(120deg,#f4e4c9,#fff);}.hero h1{font-size:clamp(2.4rem,6vw,5rem);line-height:1.03;max-width:720px;margin:0 0 20px}.hero p{max-width:620px;color:var(--muted);font-size:1.15rem}.cta{display:inline-block;margin-top:18px;padding:13px 22px;border-radius:999px;background:var(--blue);color:#fff;font-weight:700}.wrap{max-width:1100px;margin:0 auto;padding:46px 7vw}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px;margin-top:30px}.card{background:#fff;border:1px solid #eadfce;border-radius:20px;padding:26px;box-shadow:0 12px 32px rgba(23,23,23,.08)}.card h2{margin-top:0}.eyebrow{text-transform:uppercase;letter-spacing:.14em;color:var(--blue);font-size:.78rem;font-weight:800}.site-footer{padding:28px 7vw;background:var(--ink);color:#f8e7c8;margin-top:35px}.entry{background:#fff;border-radius:20px;padding:34px;margin-bottom:25px}
