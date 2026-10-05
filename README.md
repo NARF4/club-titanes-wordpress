@@ -11,9 +11,9 @@
 
 | Usuario | Rol | Contraseña |
 |---|---|---|
-| fran_admin | Administrador | LocalWP-2026!Fr4n2 |
-| editor_web | Editor | WebUser-2026!A |
-| autor_contenidos | Autor | WebUser-2026!B |
+| fran_admin | Administrador | 1234 |
+| editor_web | Editor | 1234 |
+| autor_contenidos | Autor | 1234 |
 
 ## Elementos entregados
 
